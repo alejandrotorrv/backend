@@ -1,0 +1,9 @@
+package com.microservice.celulares.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@EnableSwagger
+public class SwaggerConfig {
+
+}
