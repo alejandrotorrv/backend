@@ -1,6 +1,0 @@
-package com.microservice.celulares.config;
-
-@Configuration
-public class SwaggerConfig {
-
-}
